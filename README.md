@@ -1,2 +1,2 @@
 # wizzi-packy
-Bootstrap new packages with Packy. Powered by Wizzi.
+Bootstrap new packages with Packi. Powered by Wizzi.
